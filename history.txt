@@ -1,0 +1,17 @@
+* 7c17d0a Add comprehensive README with project description
+*   22ab348 Merge feature2
+|\  
+| * 7871da6 feature2 change
+* |   57c10bf Merge feature1
+|\ \  
+| * | f031fcb feature1 change
+| |/  
+* | d520e2b Добавлен не зачет
+* | 8b9a36d Добавлен зачет
+|/  
+* cdf6358 add log.txt 5
+* db0f07b add log.txt 4
+* be8431f add log.txt 3
+* 9ced113 add log.txt 2
+* 1f56933 add log.txt 1
+* d44606a init
